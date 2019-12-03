@@ -6,6 +6,7 @@ public class math {
 }
 
         public int sub(int first, int second) {
+        first--;
             return first - first;
 }
 
